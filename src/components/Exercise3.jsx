@@ -9,8 +9,6 @@
 
 import { useState } from "react";
 
-// let isloggedin = true;
-
 const Exercise3 = () => {
   const [isloggedin, setIsloggedin] = useState(false);
 
